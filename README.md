@@ -2,7 +2,7 @@
 Here you will find all the assets for the Block-Logic brand
 
 ### Dir Structure
-    Block-Logic Cryptocurrency      Full Logos & Symbol for Block-Logic, in all variants
+    Block-Logic                     Full Logos & Symbol for Block-Logic, in all variants
     Social Images               	Images for Social Media application
     Block Explorer              	Block Explorer logo in standard and reversed
     Branding Guidelines             Tech docs
